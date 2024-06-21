@@ -62,7 +62,7 @@
 ```
 <p>Finally to run this project, enter the following command: </p>
 
-``bash
+```bash
   npm run dev
   
 ```
