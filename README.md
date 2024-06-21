@@ -34,14 +34,14 @@
 <h3>Steps to run this project in your device: </h3>
 <p>Create an empty directory and run the following commands in the terminal: </p>
 
-bash
+```bash
   git clone https://github.com/GarimaUttam/FOODY.git
   cd FoodByte
   npm i
-
+```
 <p>Also, create a .env file in the root directory of the project and your environment variables. <br/> The following variables must be added: </p>
 
-bash
+```bash
   MONGO_URL=
 
   NEXTAUTH_URL= "http://localhost:3000/"
@@ -59,12 +59,12 @@ bash
   STRIPE_SIGN_SECRET=
   stripe_card_no=
 
-
+```
 <p>Finally to run this project, enter the following command: </p>
 
-bash
+``bash
   npm run dev
 
-
+```
 <p>Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.<br/><br/>You can start editing the page by modifying app/page.jsx. The page auto-updates as you edit the file.<br/></br>This project uses [next/font](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 </p>
