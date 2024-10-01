@@ -35,8 +35,8 @@
 <p>Create an empty directory and run the following commands in the terminal: </p>
 
 ```bash
-  git clone https://github.com/Kaarti22/FoodByte.git
-  cd FoodByte
+  git clone https://github.com/GarimaUttam/FOODY.git
+  cd FOODY
   npm i
 ```
 <p>Also, create a .env file in the root directory of the project and your environment variables. <br/> The following variables must be added: </p>
