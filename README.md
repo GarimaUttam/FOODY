@@ -1,4 +1,4 @@
-<h1>FoodByte - An online food ordering website</h1>
+<h1>FOODY - An online food ordering website</h1>
 <h3>This is a 3-level hierarchical platform where users can order food online, restaurant owners can add/update categories and menu items, manage customer orders, and admins can manage all the restaurant owners.</h3>
 <h3>Skills used: </h3>
 <ul>
